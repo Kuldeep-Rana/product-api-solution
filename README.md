@@ -1,1 +1,2 @@
-To run the service, run main class [ProductApiApplication.java](src%2Fmain%2Fjava%2Fcom%2Fproduct%2Fsolution%2FProductApiApplication.java)
+* To run the service, run main class [ProductApiApplication.java](src%2Fmain%2Fjava%2Fcom%2Fproduct%2Fsolution%2FProductApiApplication.java)
+* To access the db open url http://localhost:8181/h2-console/ db info is available in [application.properties](src%2Fmain%2Fresources%2Fapplication.properties)
