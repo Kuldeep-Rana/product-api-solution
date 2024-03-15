@@ -1,0 +1,1 @@
+To run the service, run main class [ProductApiApplication.java](src%2Fmain%2Fjava%2Fcom%2Fproduct%2Fsolution%2FProductApiApplication.java)
