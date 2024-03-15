@@ -2,12 +2,11 @@ package com.product.solution;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
 @SpringBootTest
-class SpringRestApiApplicationTests {
+class ProductApiApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
